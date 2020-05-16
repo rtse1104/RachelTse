@@ -5,7 +5,7 @@ body { background-image: url('menu.jpg');
 }
 
 h1 {
-    font-family: Oldtown, fantasy;
+    font-family: Helvetica;
     color: #FFDAB9;
     text-align: center;
     display: block;
@@ -74,7 +74,7 @@ html {
 }
 
 section {
-    font-family: 'Comic Neue', cursive;
+    font-family: Helvetica;
     color: black; 
     background-color: #FFDAB9;
     border: 1px solid black;
@@ -89,7 +89,7 @@ section {
 #chicken {
     background-color: #660000;
     text-align: center;
-    font-family: Oldtown, fantasy;
+    font-family: Helvetica;
     font-weight: bold;
     color:#b3b1b1;
     border-bottom: 1px solid black;
@@ -105,7 +105,7 @@ section {
 #beef {
 	background-color: #660000;
 	text-align: center;
-	font-family: Oldtown, fantasy;
+	font-family: Helvetica;
 	font-weight: bold;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
@@ -121,7 +121,7 @@ section {
 #sushi {
     background-color: #660000; 
     text-align: center; 
-    font-family: Oldtown, fantasy;
+    font-family: Helvetica;
     font-weight: bold;
     border-bottom: 1px solid black;
     border-left: 1px solid black;
